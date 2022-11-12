@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756044212831",
+    "project_id": "pelimax-2aaeb",
+    "storage_bucket": "pelimax-2aaeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756044212831:android:eedd00526f36fa0614c9ea",
+        "android_client_info": {
+          "package_name": "com.example.pelimax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756044212831-p6hmlbs33rjv82l6mdu8fhu1k3qvuigp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3-9fjJO5e9zgUc9nV8WELg8CzZOWYs-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756044212831-p6hmlbs33rjv82l6mdu8fhu1k3qvuigp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

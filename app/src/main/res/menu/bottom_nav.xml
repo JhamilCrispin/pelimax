@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="inicio"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+    <item android:title="promocion"
+        android:id="@+id/promocion"
+        android:icon="@drawable/ic_baseline_subscriptions_24"
+        />
+    <item android:title="regional"
+        android:id="@+id/regional"
+        android:icon="@drawable/ic_baseline_personal_video_24"
+        />
+    <item android:title="carrito"
+        android:id="@+id/carrito"
+        android:icon="@drawable/ic_baseline_add_shopping_cart_24"
+        />
+</menu>
